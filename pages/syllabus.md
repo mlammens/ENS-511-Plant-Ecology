@@ -7,15 +7,15 @@ description: course syllabus
 Plant Ecology
 =============
 
-**Course Number:** ENS 511\
-**Term:** Fall 2016\
-**Meeting Day and time:** Wednesday 4:35 PM - 7:35 PM\
-**Location:** Pleasantville Campus\
-**Credits:** 3
+**Course Number:** ENS 511  
+**Term:** Fall 2016  
+**Meeting Day and time:** Wednesday 4:35 PM - 7:35 PM  
+**Location:** Pleasantville Campus  
+**Credits:** 3  
 
-**Professor:** Dr. Matthew Aiello-Lammens\
-**Contact information:** maiellolammens@pace.edu\
-**Phone:** (914) 773-3110\
+**Professor:** Dr. Matthew Aiello-Lammens  
+**Contact information:** maiellolammens@pace.edu  
+**Phone:** (914) 773-3110  
 **Office hours:** Tue 12:00 – 1:30 (PLV) & 5:00 – 6:00 (LAW); Wed 3:30 – 4:30 (PLV); Thu 12:00 – 1:30 (PLV)
 
 Course Information
@@ -124,24 +124,24 @@ indicates chapters in which material relevant to our topic can be found.
 The specific sections / pages will be determined by Prof. Aiello-Lammens
 on a week-to-week basis.
 
-  **Date**   **Topic**                                                  **Reading and assignments**
-  ---------- ---------------------------------------------------------- -------------------------------------------------------------------------------------------------------------
-  9/7        Introduction to plant ecology and plant identification     <span id="OLE_LINK3" class="anchor"><span id="OLE_LINK4" class="anchor"></span></span>Gurevitch et al. CH 1
-  9/14       Population ecology and demography of plants                **Assignment 1 Due**; Gurevitch et al. CH 5
-  9/21       Growth and reproduction of plants                          **Assignment 2 Due**; Gurevitch et al. CH 7
-  9/28       Community ecology of plants                                **Assignment 3 Due**; Gurevitch et al. CHS 9 and 10
-  10/5       Community ecology of plants (cont’d)                       **Assignment 4 Due**; Gurevitch et al. CH 13
-  10/12      NO CLASS                                                   
-  10/19      Photosynthesis                                             **Assignment 5 Due**; Gurevitch et al. CH 2
-  10/26      Plant life-histories                                       **Assignment 6 Due;** Gurevitch et al. CH 8
-  11/2       All things below ground; **Last day outside as a class**   **Assignment 7 Due**; Gurevitch et al. CHS 3 and 4
-  11/9       Plant evolution                                            **Assignment 8 Due**; Gurevitch et al. CH 6
-  11/16      Herbivory and plant pathogens                              **Assignment 9 Due**; Gurevitch et al. CH 11
-  11/23      NO CLASS – Thanks Giving                                   
-  11/30      Ecosystems processes                                       **Assignment 10 Due**; Gurevitch et al. CH 14
-  12/7       Landscape ecology                                          **Assignment 11 Due**; Gurevitch et al. CHS 15 and 16
-  12/14      Global vegetation patterns                                 **Assignment 12 Due;** Gurevitch et al. CHS 17, 18, and 19
-  12/21      In Class Presentations                                     Enjoy the holiday break!
+|**Date**|**Topic**|**Reading and assignments**|
+|--------|---------|---------------------------|
+|9/7 |Introduction to plant ecology and plant identification |Gurevitch et al. CH 1|
+|9/14 |Population ecology and demography of plants |**Assignment 1 Due**; Gurevitch et al. CH 5|
+|9/21 |Growth and reproduction of plants |**Assignment 2 Due**; Gurevitch et al. CH 7|
+|9/28 |Community ecology of plants |**Assignment 3 Due**; Gurevitch et al. CHS 9 and 10|
+|10/5 |Community ecology of plants (cont’d) |**Assignment 4 Due**; Gurevitch et al. CH 13|
+|10/12 |NO CLASS | |                                                  
+|10/19 |Photosynthesis |**Assignment 5 Due**; Gurevitch et al. CH 2|
+|10/26 |Plant life-histories |**Assignment 6 Due;** Gurevitch et al. CH 8|
+|11/2 |All things below ground; **Last day outside as a class** |**Assignment 7 Due**; Gurevitch et al. CHS 3 and 4|
+|11/9 |Plant evolution |**Assignment 8 Due**; Gurevitch et al. CH 6|
+|11/16 |Herbivory and plant pathogens |**Assignment 9 Due**; Gurevitch et al. CH 11|
+|11/23 |NO CLASS – Thanks Giving ||
+|11/30 |Ecosystems processes |**Assignment 10 Due**; Gurevitch et al. CH 14|
+|12/7 |Landscape ecology |**Assignment 11 Due**; Gurevitch et al. CHS 15 and 16|
+|12/14 |Global vegetation patterns |**Assignment 12 Due;** Gurevitch et al. CHS 17, 18, and 19|
+|12/21 |In Class Presentations |Enjoy the holiday break!|
 
 Course Policies
 ---------------
