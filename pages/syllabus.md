@@ -1,3 +1,8 @@
+---
+layout: page
+title: Syllabus
+---
+
 Plant Ecology
 =============
 
