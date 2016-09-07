@@ -14,4 +14,4 @@ Specific topics covered will include photosynthesis and respiration, plant physi
 
 ## Course Calendar
 
-[Meeting 1](pages/meeting-1.md)
+[Meeting 1](pages/meeting-1.html)
