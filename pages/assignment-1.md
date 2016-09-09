@@ -28,10 +28,10 @@ Second, read chapter 5 of Gurevitch et al. *Ecology of Plants*. I expect you to 
 
 After doing the reading, answer the following questions (in short paragraph form).
 
-1. Assume you have collected multiple years of data on *Plantago lanceolata* following the protocol you read. How would you use these data to construct a model to understand its demography? (**Note:** While it will be easiest to answer this question after reading Gurevitch et al. CH 5, [this document](https://www.cbd.int/doc/pa/tools/A%20Practical%20Handbook%20for%20Population%20Viability%20Analysis.pdf) by Morris et al. (1999)[1] is a reasonable alternative, particularly the information in chapter 3.)
+1. Assume you have collected multiple years of data on *Plantago lanceolata* following the protocol you read. How would you use these data to construct a model to understand its demography? (**Note:** While it will be easiest to answer this question after reading Gurevitch et al. CH 5, [this document](https://www.cbd.int/doc/pa/tools/A%20Practical%20Handbook%20for%20Population%20Viability%20Analysis.pdf) by Morris et al. (1999)[^1] is a reasonable alternative, particularly the information in chapter 3.)
 
 2. Choose one example of a model noted in Gurevitch et al. CH 5, and briefly describe what the model was, and what the results showed.
 
 3. Identify one question concerning population demography that you would like answered. This can be technical or more general. Come to class on Wednesday ready to ask this question.
 
-[1]: Morris, W., D. F. Doak, M. Groom, P. Kareiva, J. Fieberg, L. Gerber, P. Murphy, and D. Thomson. 1999. A Practical Handbook for Population Viability Analysis. The Nature Conservancy.
+[^1]: Morris, W., D. F. Doak, M. Groom, P. Kareiva, J. Fieberg, L. Gerber, P. Murphy, and D. Thomson. 1999. A Practical Handbook for Population Viability Analysis. The Nature Conservancy.
