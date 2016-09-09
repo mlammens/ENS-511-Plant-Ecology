@@ -34,4 +34,6 @@ After doing the reading, answer the following questions (in short paragraph form
 
 3. Identify one question concerning population demography that you would like answered. This can be technical or more general. Come to class on Wednesday ready to ask this question.
 
+### Citations
+
 [^1]: Morris, W., D. F. Doak, M. Groom, P. Kareiva, J. Fieberg, L. Gerber, P. Murphy, and D. Thomson. 1999. A Practical Handbook for Population Viability Analysis. The Nature Conservancy.
