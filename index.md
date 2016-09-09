@@ -19,3 +19,7 @@ You can find a copy of the syllabus [here](pages/syllabus.html)
 ## Course Calendar
 
 [Meeting 1](pages/meeting-1.html)
+
+## Assignments
+
+[Assignment 1](pages/assignment-1.html) - DUE 9/14/2016 by 4:30 PM
