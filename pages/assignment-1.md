@@ -1,3 +1,9 @@
+---
+layout: page
+title: Assignment 1
+description: assignment 1
+---
+
 ## ENS 511 Plant Ecology - Assignment 1 - DUE 9/14/2016 by 4:30 PM
 
 ### Part 1 - iNaturlist
