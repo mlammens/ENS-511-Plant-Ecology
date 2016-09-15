@@ -17,5 +17,3 @@ description: Meeting 1 overview
 * 6:20 - 6:50 - Plant identification - attempt 2
 * 6:50 - 7:10 - In groups - how many plants are there?
 * 7:10 - 7:30 - Wrap-up and review of syllabus
-
-## Assignment 1

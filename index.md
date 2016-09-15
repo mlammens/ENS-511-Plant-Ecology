@@ -19,6 +19,7 @@ You can find a copy of the syllabus [here](pages/syllabus.html)
 ## Course Calendar
 
 [Meeting 1](pages/meeting-1.html)
+[Meeting 2](pages/meeting-2.html)
 
 ## Assignments
 
