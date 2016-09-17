@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Meeting 2
-description: Meeting 3 overview
+description: Meeting 2 overview
 ---
 
 ## Schedule
