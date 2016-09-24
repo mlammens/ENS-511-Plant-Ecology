@@ -129,8 +129,8 @@ on a week-to-week basis.
 |9/7 |Introduction to plant ecology and plant identification |Gurevitch et al. CH 1|
 |9/14 |Population ecology and demography of plants |**Assignment 1 Due**; Gurevitch et al. CH 5|
 |9/21 |Growth and reproduction of plants |**Assignment 2 Due**; Gurevitch et al. CH 7|
-|9/28 |Community ecology of plants |**Assignment 3 Due**; Gurevitch et al. CHS 9 and 10|
-|10/5 |Community ecology of plants (cont’d) |**Assignment 4 Due**; Gurevitch et al. CH 13|
+|9/28 |Community ecology of plants |**Assignment 3 Due**; Gurevitch et al. CH 9|
+|10/5 |Community ecology of plants (cont’d) |**Assignment 4 Due**; Gurevitch et al. CHS 10 and 13|
 |10/12 |NO CLASS | |                                                  
 |10/19 |Photosynthesis |**Assignment 5 Due**; Gurevitch et al. CH 2|
 |10/26 |Plant life-histories |**Assignment 6 Due;** Gurevitch et al. CH 8|
