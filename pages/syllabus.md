@@ -97,7 +97,7 @@ Assignments, assessments, and evaluations
 
 ### Weekly assignments 
 
-There will be an assignment assigned each week, due by the start of
+There will be an assignment each week, due by the start of
 class the following week.
 
 ### iNaturalist contributions
@@ -107,9 +107,9 @@ Further details will be provided in class.
 
 ### Course project
 
-Students will work in small groups (2 – 3 students) to plan and carryout
-a plant ecology project throughout the semester. The project will
-culminate in a presentation to all members of the class and a joint
+Students will plan and carryout
+a plant ecology project during the semester. The project will
+culminate in a presentation to all members of the class and a
 written report.
 
 <span id="course-schedule-and-policies" class="anchor"></span>
@@ -130,7 +130,7 @@ on a week-to-week basis.
 |9/14 |Population ecology and demography of plants |**Assignment 1 Due**; Gurevitch et al. CH 5|
 |9/21 |Growth and reproduction of plants |**Assignment 2 Due**; Gurevitch et al. CH 7|
 |9/28 |Community ecology of plants |**Assignment 3 Due**; Gurevitch et al. CH 9|
-|10/5 |Community ecology of plants (cont’d) |**Assignment 4 Due**; Gurevitch et al. CHS 10 and 13|
+|10/5 |Community ecology of plants (cont’d) |**Assignment 4 Due**; Gurevitch et al. CH 10|
 |10/12 |NO CLASS | |                                                  
 |10/19 |Photosynthesis |**Assignment 5 Due**; Gurevitch et al. CH 2|
 |10/26 |Plant life-histories |**Assignment 6 Due;** Gurevitch et al. CH 8|
