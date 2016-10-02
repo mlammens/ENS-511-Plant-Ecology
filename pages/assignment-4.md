@@ -10,4 +10,4 @@ description: assignment 4
 
 2. Fill in your *Plantago lanceolata* data from two weeks ago on this [Google Sheet](https://docs.google.com/spreadsheets/d/19_f-2ZP6Hy9hLcXQBWHFoyplHsFTiULGZeI_ASpo3xI/edit?usp=sharing).
 
-3. On iNaturalist, join the 'Project' 'Plants of Devries Park in Sleepy Hollow'. Then, add all of the observations from last weeks class to this project.
+3. On iNaturalist, join the 'Project' 'Plants of Devries Park in Sleepy Hollow'. Then, add all of the observations from last week's class to this project.
