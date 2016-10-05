@@ -21,6 +21,8 @@ You can find a copy of the syllabus [here](pages/syllabus.html)
 [Meeting 1](pages/meeting-1.html)  
 [Meeting 2](pages/meeting-2.html)   
 [Meeting 3](pages/meeting-3.html)  
+[Meeting 4](pages/meeting-4.html)  
+[Meeting 5](pages/meeting-5.html)  
 
 ## Assignments
 
