@@ -30,3 +30,4 @@ You can find a copy of the syllabus [here](pages/syllabus.html)
 [Assignment 2](pages/assignment-2.html) - DUE 09/20/2016 by 4:30 PM   
 [Assignment 3](pages/assignment-3.html) - DUE 09/28/2016 by 4:30 PM  
 [Assignment 4](pages/assignment-4.html) - DUE 10/05/2016 by 4:30 PM  
+[Assignment 5](pages/assignment-5.html) - DUE 10/19/2016 by 4:30 PM  
