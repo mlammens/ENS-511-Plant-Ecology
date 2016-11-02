@@ -34,4 +34,4 @@ You can find a copy of the syllabus [here](pages/syllabus.html)
 
 ## Final Project Overview
 
-You can find more information about the final project [here](pages/final-project.html)
+You can find more information about the final project [here](pages/final-project.md)
