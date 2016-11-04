@@ -23,6 +23,9 @@ You can find a copy of the syllabus [here](pages/syllabus.html)
 [Meeting 3](pages/meeting-3.html)  
 [Meeting 4](pages/meeting-4.html)  
 [Meeting 5](pages/meeting-5.html)  
+[Meeting 6](pages/meeting-6.html)  
+[Meeting 7](pages/meeting-7.html)  
+[Meeting 8](pages/meeting-8.html)  
 
 ## Assignments
 
@@ -31,6 +34,7 @@ You can find a copy of the syllabus [here](pages/syllabus.html)
 [Assignment 3](pages/assignment-3.html) - DUE 09/28/2016 by 4:30 PM  
 [Assignment 4](pages/assignment-4.html) - DUE 10/05/2016 by 4:30 PM  
 [Assignment 5](pages/assignment-5.html) - DUE 10/19/2016 by 4:30 PM  
+[Assignment 6](pages/assignment-6.html) - DUE 11/09/2016 by 4:30 PM  
 
 ## Final Project Overview
 

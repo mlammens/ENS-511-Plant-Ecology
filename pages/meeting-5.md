@@ -4,7 +4,7 @@ title: Meeting 5
 description: Meeting 5 overview
 ---
 
-We will being our class in the Environmental Classroom at Pace University - PLV. 
+We will be holding our class in the Environmental Classroom at Pace University - PLV. 
 
 ## Schedule
 

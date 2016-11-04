@@ -134,13 +134,13 @@ on a week-to-week basis.
 |10/12 |NO CLASS | |                                                  
 |10/19 |Plant life-histories |**Assignment 5 Due**; Gurevitch et al. CH 8|
 |10/26 |Photosynthesis |Gurevitch et al. CH 2|
-|11/2 |All things below ground; **Last day outside as a class** |**Assignment 6 Due**; Gurevitch et al. CHS 3 and 4|
-|11/9 |Plant evolution |**Assignment 7 Due**; Gurevitch et al. CH 6|
-|11/16 |Herbivory and plant pathogens |**Assignment 8 Due**; Gurevitch et al. CH 11|
+|11/2 |Photosynthesis (cont'd); **Last day outside as a class** | Gurevitch et al. CH 2|
+|11/9 |Water relations and energy balance |**Assignment 6 Due**; Gurevitch et al. CH 3|
+|11/16 |Soil and below ground interactions|**Assignment 7 Due**; Gurevitch et al. CH 4|
 |11/23 |NO CLASS – Thanks Giving ||
-|11/30 |Ecosystems processes |**Assignment 9 Due**; Gurevitch et al. CH 14|
-|12/7 |Landscape ecology |**Assignment 10 Due**; Gurevitch et al. CHS 15 and 16|
-|12/14 |Global vegetation patterns |**Assignment 11 Due;** Gurevitch et al. CHS 17, 18, and 19|
+|11/30 |Plant evolution; Herbivory and plant pathogens  |**Assignment 8 Due**; Gurevitch et al. CHS 6 and 11|
+|12/7 |Ecosystems processes and Landscape ecology |**Assignment 9 Due**; Gurevitch et al. CHS 14, 15, and 16|
+|12/14 |Global vegetation patterns |**Assignment 10 Due;** Gurevitch et al. CHS 17, 18, and 19|
 |12/21 |In Class Presentations |Enjoy the holiday break!|
 
 Course Policies
