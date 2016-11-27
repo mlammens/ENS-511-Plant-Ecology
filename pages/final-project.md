@@ -33,6 +33,10 @@ It should include in-text citations and a works cited section.
 You should follow a standard citation format, and I suggest you use that found in the journal Ecology.
 If you are including figures and/or tables from other papers, they must be referenced as such, but given a figure/table legend that makes sense in context of your paper (i.e., number and description).
 
+I recommend that you use a standard scientific article structure when writing your paper.
+For a field-based project, this includes Abstract, Introduction, Methods, Results, and Discussion sections. 
+For a literature-based review, the structure varies, but generally includes an Abstract, Introduction, and Discussion, as well as several sections between the Intro and the Discussion that break-up the content of the review.
+
 ## Presentation guidelines
 
 The presentation should be 12 minutes long, followed by 3-5 minutes of questions.
