@@ -35,7 +35,8 @@ You can find a copy of the syllabus [here](pages/syllabus.html)
 [Assignment 4](pages/assignment-4.html) - DUE 10/05/2016 by 4:30 PM  
 [Assignment 5](pages/assignment-5.html) - DUE 10/19/2016 by 4:30 PM  
 [Assignment 6](pages/assignment-6.html) - DUE 11/09/2016 by 4:30 PM  
-[Assignment 7](pages/assignment-7.html) - DUE 12/07/2016 by 4:30 PM  
+[Assignment 7](pages/assignment-7.html) - DUE 11/16/2016 by 4:30 PM  
+[Assignment 8](pages/assignment-8.html) - DUE 12/07/2016 by 4:30 PM  
 
 ## Final Project Overview
 

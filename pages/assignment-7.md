@@ -4,12 +4,14 @@ title: Assignment 7
 description: assignment 7
 ---
 
-## ENS 511 Plant Ecology - Assignment 7 - DUE 12/07/2016 by 4:30 PM
+## ENS 511 Plant Ecology - Assignment 7 - DUE 11/16/2016 by 4:30 PM
 
-Background reading for this section is Gurevitch et al. Chapter 4. I recommend reading the introduction and summary sections, familiarizing your self with the figures, and skimming the headings.
+1. Read the Nicotra et al 2011 paper (attached)
+	* Link three concepts discussed in this paper with those discussed in Gurevitch et al, Chaps 2 and 3
+	* Each ‘link’ you make should be explained in short (2 – 3 sentences) answer response.
 
-1. Collect a soil-sample to bring to class with you on Wednesday. We will analyze these samples together during class. Your soil sample should consist of soil collected by digging a hole of approximately 5 cm diameter x 15 cm depth (or about 3 inches x 6 inches).
-
-2. Read the Breeman et al. 1997 paper and prepare a short summary of the paper, approximately 150 words.
-
-3. Provide me with a short description of your final project, between 150 and 250 words.
+2. Examine the transpiration dataset from the experiment we setup last Wednesday evening ([link to data sheet](https://docs.google.com/spreadsheets/d/1auhExamHkvtFa2GdDZ5u_VGHK2riDF2SPKSVJlCUC7g/edit#gid=0)). Note that I took three more measurements on Thursday morning at 9 AM (Thu\_9\_Weight\_Pre), Thursday afternoon at 4 PM (Thu\_16\_Weight), and Friday afternoon at 5 PM (Fri\_17\_Weight). I also added water to the tubes on Thursday morning, but not at any other time.
+	* Calculate the amount of water transpired per hour for each interval
+	* Compare different transpiration rates for the different species and time intervals
+		* Offer one possible explanation for some of these differences
+		* Describe an experimental setup you can use to test/investigate your explanation.
