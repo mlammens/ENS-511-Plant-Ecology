@@ -26,9 +26,9 @@ You can find a copy of the syllabus [here](pages/syllabus.html)
 [Meeting 6](pages/meeting-6.html)  
 [Meeting 7](pages/meeting-7.html)  
 [Meeting 8](pages/meeting-8.html)  
-Meeting 9
-Meeting 10
-[Meeting 11](pages/meeting-11.html)
+Meeting 9  
+Meeting 10  
+[Meeting 11](pages/meeting-11.html)  
 [Meeting 12](pages/meeting-12.html)  
 
 
