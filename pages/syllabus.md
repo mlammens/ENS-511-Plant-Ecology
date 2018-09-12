@@ -8,7 +8,7 @@ Plant Ecology
 =============
 
 **Course Number:** ENS 511  
-**Term:** Fall 2016  
+**Term:** Fall 2018  
 **Meeting Day and time:** Wednesday 4:35 PM - 7:35 PM  
 **Location:** Pleasantville Campus  
 **Credits:** 3  
@@ -16,7 +16,7 @@ Plant Ecology
 **Professor:** Dr. Matthew Aiello-Lammens  
 **Contact information:** maiellolammens@pace.edu  
 **Phone:** (914) 773-3110  
-**Office hours:** Tue 12:00 – 1:30 (PLV) & 5:00 – 6:00 (LAW); Wed 3:30 – 4:30 (PLV); Thu 12:00 – 1:30 (PLV)
+**Office hours:** Mon 12:30 - 2:00; Tue 4:30 – 5:30; Wed 1:30 – 3:00
 
 Course Information
 ------------------
@@ -77,13 +77,13 @@ impact perspective.
 
 ### Required materials
 
-Gurevitch, J, Scheiner, SM, and Fox, GA. 2006. *The Ecology of Plants:
-2nd Ed*. Sinauer Associates, Inc. Sutherland, MA.
-
 Peer-reviewed articles will also be assigned throughout the semester.
 These will be provided as the course progresses.
 
 ### Recommended materials
+
+Gurevitch, J, Scheiner, SM, and Fox, GA. 2006. *The Ecology of Plants:
+2nd Ed*. Sinauer Associates, Inc. Sutherland, MA.
 
 Wessels, T. 2010. *Forest Forensics: A field Guide to Reading the
 Forested Landscape*. Countryman Press. Woodstock, VT.
@@ -95,22 +95,36 @@ Ecology, Environmental Science, or permission of instructor.
 Assignments, assessments, and evaluations
 -----------------------------------------
 
-### Weekly assignments 
+### Weekly assignments (30%)
 
 There will be an assignment each week, due by the start of
 class the following week.
 
-### iNaturalist contributions
+### iNaturalist contributions (20%)
 
 You are required to contribute at least 50 entries to iNaturalist.
 Further details will be provided in class.
 
-### Course project
+### Course project (50%)
 
-Students will plan and carryout
-a plant ecology project during the semester. The project will
-culminate in a presentation to all members of the class and a
-written report.
+We will be working on a collaborative project during the course of the semester, which
+will cullminate in a single document - a forest inventory analysis and needs assessment for
+the Pace University Pleasantville Campus.
+This project will require extensive field work, literature research, and data analysis.
+Each student is expected to lead one section/ chapter of the final report,
+while Prof. Aiello-Lammens will serve as editor.
+
+#### Potential chapters
+
+* Historical land use and information
+* Inventory of land types and vegetation
+* Risks and threats - invasive species
+* Risks and threats - pollution
+* Risks and threats - land use changes and deer abundance
+* Species of Greatest Conservation Need in the region
+* Long-term monitoring
+* Abiotic conditions - soil, weather, etc.
+
 
 <span id="course-schedule-and-policies" class="anchor"></span>
 
@@ -126,22 +140,27 @@ on a week-to-week basis.
 
 |**Meeting**|**Date**|**Topic**|**Reading and assignments**|
 |---|--------|---------|---------------------------|
-|1 |9/7 |Introduction to plant ecology and plant identification |Gurevitch et al. CH 1|
-|2 |9/14 |Population ecology and demography of plants |**Assignment 1 Due**; Gurevitch et al. CH 5|
-|3 |9/21 |Growth and reproduction of plants |**Assignment 2 Due**; Gurevitch et al. CH 7|
-|4 |9/28 |Community ecology of plants |**Assignment 3 Due**; Gurevitch et al. CH 9|
-|5 |10/5 |Community ecology of plants (cont’d) |**Assignment 4 Due**; Gurevitch et al. CH 10|
-| |10/12 |NO CLASS | |                                                  
-|6 |10/19 |Plant life-histories |**Assignment 5 Due**; Gurevitch et al. CH 8|
-|7 |10/26 |Photosynthesis |Gurevitch et al. CH 2|
-|8 |11/2 |Photosynthesis (cont'd); **Last day outside as a class** | Gurevitch et al. CH 2|
-|9 |11/9 |Water relations and energy balance |**Assignment 6 Due**; Gurevitch et al. CH 3|
-|10 |11/16 |Water relations and energy balance (cont'd); Evolution |**Assignment 7 Due**; Gurevitch et al. CHS 3 & 6|
-| |11/23 |NO CLASS – Thanks Giving ||
-|11 |11/30 |*Special lecture - Local Environmental Law*| Supplemental reading in email |
-|12 |12/7 |Soil and below ground interactions|**Assignment 8 Due**; Gurevitch et al. CH 4|
-|13 |12/14 |Landscape Ecology |**Assignment 9 Due**; Gurevitch et al. CH 16|
+|1 |9/5 |Introduction to plant ecology and plant identification |Gurevitch et al. CH 1|
+|2 |9/12 |Population ecology and demography of plants |**Assignment 1 Due**; Gurevitch et al. CH 5|
+| |9/19 |NO CLASS | |                                                  
+|3 |9/26 |Growth and reproduction of plants |**Assignment 2 Due**; Gurevitch et al. CH 7|
+|4 |10/3 |Community ecology of plants |**Assignment 3 Due**; Gurevitch et al. CH 9|
+|5 |10/10 |Community ecology of plants (cont’d) |**Assignment 4 Due**; Gurevitch et al. CH 10|
+|6 |10/17 | | |                                                  
+|7 |10/24 |Plant life-histories |**Assignment 5 Due**; Gurevitch et al. CH 8|
+|8 |10/31 |Photosynthesis |Gurevitch et al. CH 2|
+| |11/7 |NO CLASS | |                                                  
+|9 |11/14 |Photosynthesis (cont'd); **Last day outside as a class** | Gurevitch et al. CH 2|
+| |11/21 |NO CLASS – Thanks Giving ||
+|10 |11/28 | ||
+|11 |12/5 |Water relations and energy balance |**Assignment 6 Due**; Gurevitch et al. CH 3|
+|12 |12/12 |Water relations and energy balance (cont'd); Evolution |**Assignment 7 Due**; Gurevitch et al. CHS 3 & 6|
+|13 |12/19 |*Special lecture - Local Environmental Law*| Supplemental reading in email |
+|14 |12/21 |Soil and below ground interactions|**Assignment 8 Due**; Gurevitch et al. CH 4|
+
+|14 |12/14 |Landscape Ecology |**Assignment 9 Due**; Gurevitch et al. CH 16|
 |14 |12/21 |Biogeography and Biomes |**Assignment 10 Due**; Gurevitch et al. CH 18|
+
 
 Course Policies
 ---------------
