@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Assignment 1
+title: "Assignment 1"
 description: assignment 1
 ---
 
