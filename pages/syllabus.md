@@ -114,6 +114,11 @@ This project will require extensive field work, literature research, and data an
 Each student is expected to lead one section/ chapter of the final report,
 while Prof. Aiello-Lammens will serve as editor.
 
+#### Field sampling
+
+We will establish between 4 and 8 vegetation survey plots on the Pace campus during this class.
+Our sampling scheme is outlined [here](pages/sample_design.html).
+
 #### Components of project
 
 * Works cited list (10%)
@@ -151,9 +156,9 @@ on a week-to-week basis.
 |2 |9/12 |Plant identification and transect setup |**Assignment 1 Due**|
 | |9/19 |NO CLASS | |                                                  
 |3 |9/26 |Quadrat establishment |**Assignment 2 **|
-|4 |10/3 |Quadrat sampling - leaf measurements |**Assignment 3 Due**|
-|5 |10/10 |Quadrat sampling - demographic measurements |**Assignment 4 Due**|
-|6 |10/17 |*Quercus rubra* field experiment monitoring | |                                                  
+|4 |10/3 |Quadrat sampling - leaf measurements |**None**|
+|5 |10/10 |Quadrat sampling - demographic measurements |**Assignment 3 Due**|
+|6 |10/17 |*Quercus rubra* field experiment monitoring |**Assignment 4 Due** |                                                  
 |7 |10/24 |Quadrat sampling - soil and other abiotic conditions |**Assignment 5 Due**|
 |8 |10/31 |Quadrat sampling - photosynthesis;  **Last day outside as a class** |**Assignment 6 Due**|
 | |11/7 |NO CLASS | |                                                  
