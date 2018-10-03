@@ -117,7 +117,7 @@ while Prof. Aiello-Lammens will serve as editor.
 #### Field sampling
 
 We will establish between 4 and 8 vegetation survey plots on the Pace campus during this class.
-Our sampling scheme is outlined [here](pages/sample_design.html).
+Our sampling scheme is outlined [here](sample_design.html).
 
 #### Components of project
 
