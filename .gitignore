@@ -3,3 +3,5 @@ Gemfile.lock
 ENS-511-Plant-Ecology-SP16
 .DS_Store
 old_pages/*
+*~
+*/*~
