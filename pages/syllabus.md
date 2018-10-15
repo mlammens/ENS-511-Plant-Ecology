@@ -155,14 +155,14 @@ on a week-to-week basis.
 |1 |9/5 |*Quercus rubra* field experiment setup |Blossey et al.|
 |2 |9/12 |Plant identification and transect setup |**Assignment 1 Due**|
 | |9/19 |NO CLASS | |                                                  
-|3 |9/26 |Quadrat establishment |**Assignment 2 **|
-|4 |10/3 |Quadrat sampling - leaf measurements |**None**|
-|5 |10/10 |Quadrat sampling - demographic measurements |**Assignment 3 Due**|
-|6 |10/17 |*Quercus rubra* field experiment monitoring |**Assignment 4 Due** |                                                  
-|7 |10/24 |Quadrat sampling - soil and other abiotic conditions |**Assignment 5 Due**|
-|8 |10/31 |Quadrat sampling - photosynthesis;  **Last day outside as a class** |**Assignment 6 Due**|
+|3 |9/26 |Quadrat establishment |**Assignment 2**|
+|4 |10/3 |Quadrat establishment and sampling |**None**|
+|5 |10/10 |Quadrat sampling - leaf measurements |**Assignment 3 Due**|
+|6 |10/17 |Quadrat sampling - leaf measurements and light levels |**Assignment 4 Due** |                                                  
+|7 |10/24 |*Quercus rubra* field experiment monitoring and demographic parameters |**Assignment 5 Due**|
+|8 |10/31 |Quadrat sampling - soil and other abiotic conditions;  **Sampling on your time, lab work coordinated with Prof A-L** |**Assignment 6 Due**|
 | |11/7 |NO CLASS | |                                                  
-|9 |11/14 |Analysis planning |**Assignment 7 Due**|
+|9 |11/14 |Quadrat sampling (before class) - photosynthesis; Analysis planning |**Assignment 7 Due**|
 | |11/21 |NO CLASS – Thanks Giving ||
 |10 |11/28 |Chapter 1 and 2 Discussion |**Assignment 8 Due**|
 |11 |12/5 |Chapter 3 and 4 Discussion |**Assignment 9 Due**|
