@@ -159,13 +159,13 @@ on a week-to-week basis.
 |4 |10/3 |Quadrat establishment and sampling |**None**|
 |5 |10/10 |Quadrat sampling - leaf measurements |**Assignment 3 Due**|
 |6 |10/17 |Quadrat sampling - leaf measurements and light levels |**Assignment 4 Due** |                                                  
-|7 |10/24 |*Quercus rubra* field experiment monitoring and demographic parameters |**Assignment 5 Due**|
-|8 |10/31 |Quadrat sampling - soil and other abiotic conditions;  **Sampling on your time, lab work coordinated with Prof A-L** |**Assignment 6 Due**|
+|7 |10/24 |Quadrat sampling - demographic parameters |**Complete Data Entry**|
+|8 |10/31 |Quadrat sampling - soil and other abiotic conditions;  **Sampling on your time, lab work coordinated with Prof A-L** |**Assignment 5 Due**|
 | |11/7 |NO CLASS | |                                                  
-|9 |11/14 |Quadrat sampling (before class) - photosynthesis; Analysis planning |**Assignment 7 Due**|
+|9 |11/14 |Quadrat sampling (before class) - photosynthesis; Analysis planning |**Assignment 6 Due**|
 | |11/21 |NO CLASS – Thanks Giving ||
-|10 |11/28 |Chapter 1 and 2 Discussion |**Assignment 8 Due**|
-|11 |12/5 |Chapter 3 and 4 Discussion |**Assignment 9 Due**|
+|10 |11/28 |Chapter 1 and 2 Discussion |**Assignment 7 Due**|
+|11 |12/5 |Chapter 3 and 4 Discussion |**Assignment 8 Due**|
 |12 |12/12 |Chapter 5 and 6 Discussion |**First Draft Due**|
 |13 |12/19 |Chapter 7 and 8 Discussion |**Peer Evaluations Due** |
 |14 |12/21 |Course synthesis and wrap-up | **Final Draft Due** |
